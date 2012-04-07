@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  call_sign: MyString
+  color: MyString
+
+two:
+  title: MyString
+  call_sign: MyString
+  color: MyString
